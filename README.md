@@ -1,4 +1,4 @@
-# m1-native-minecraft
+# Native Minecraft on M1 Apple Silicon (OptiFine)
 > Run Minecraft natively on Apple Silicon, using the default launcher and optifine.
 
 This is based off of:
