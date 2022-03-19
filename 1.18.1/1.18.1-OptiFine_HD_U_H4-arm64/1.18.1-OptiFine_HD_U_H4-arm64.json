@@ -1,0 +1,22 @@
+{
+  "id": "1.18.1-OptiFine_HD_U_H4-arm64",
+  "inheritsFrom": "1.18.1-arm64",
+  "time": "2021-12-20T16:06:19-08:00",
+  "releaseTime": "2021-12-20T16:06:19-08:00",
+  "type": "release",
+  "libraries": [
+    {
+      "name": "optifine:OptiFine:1.18.1_HD_U_H4"
+    },
+    {
+      "name": "optifine:launchwrapper-of:2.3"
+    }
+  ],
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "arguments": {
+    "game": [
+      "--tweakClass",
+      "optifine.OptiFineTweaker"
+    ]
+  }
+}
