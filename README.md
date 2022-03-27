@@ -4,13 +4,6 @@
 This is based off of:
 https://gist.github.com/ezfe/8bc43a65e16b79c955f81b4d7fa4ae6a#file-1-18-1-arm64-json
 
-If you would like to skip the Optifine portion, you can just download it from here following these steps.
-  1. Download the correct version you wish to install. You can either download the entire repo, or I may have a RELEASE where you can download a zip.
-  2. There will be 1 folder, `<version/optifine>-arm64`. Drag this folder into `~/Library/Application Support/minecraft/versions`.
-  3. Ensure that you have the `<version>-arm64` folder already. For example, if you are installing `1.18.2 Optifine`, then follow the steps <a href="https://gist.github.com/ezfe/8bc43a65e16b79c955f81b4d7fa4ae6a#file-1-18-1-arm64-json">here</a>, making sure you name everything `1.18.2-arm64`.
-  4. Open your Minecraft launcher and create a new installation. Point the install folder to the `<version/optifine>-arm64` folder. Point the Java installation to where you installed your ARM based java.
-  5. Save, and run!
-
 This assumes that you already have a version of ARM based Java installed.
 
 ## instructions
