@@ -6,7 +6,7 @@ https://gist.github.com/ezfe/8bc43a65e16b79c955f81b4d7fa4ae6a#file-1-18-1-arm64-
 
 This assumes that you already have a version of ARM based Java installed.
 
-##AS OF MINECRAFT 1.19, THESE STEPS ARE NO LONGER REQUIRED.
+## AS OF MINECRAFT 1.19, THESE STEPS ARE NO LONGER REQUIRED.
 You must still have an ARM version of Java installed somewhere on your Mac, and all you need to do is point the OptiFine installation version in your launcher to utilize the ARM java.
 
 ## Instructions
